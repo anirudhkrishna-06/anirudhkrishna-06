@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anirudh%20Krishna%20M&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Builds%20systems%20that%20keep%20time%20%E2%80%94%20in%20code%20and%20on%20the%20mridangam&descSize=16&descAlignY=60" width="100%" alt="banner" />
 
 <a href="https://github.com/anirudhkrishna-06">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=SDE+Intern+%40+Amazon+%E2%80%94+payments+on+the+checkout+critical+path;Building+a+distributed+KV+store+from+scratch+in+Go;Making+LLM+output+reliable%2C+not+just+impressive;Department+Rank+1+%7C+CGPA+8.99+%7C+SSN+College%2C+Chennai" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=SDE+Intern+%40+Amazon;Building+a+distributed+KV+store+from+scratch+in+Go;Making+LLM+output+reliable%2C+not+just+impressive;Department+Rank+1+%7C+CGPA+8.99+%7C+SSN+College%2C+Chennai" alt="typing animation" />
 </a>
 
 <br/>
