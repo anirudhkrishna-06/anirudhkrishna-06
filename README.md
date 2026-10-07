@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhkrishna06)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abrokecollegeguy/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://anirudhkrishna-portfolio.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikrishofficial@gmail.com)
 
 </div>
